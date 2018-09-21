@@ -1,5 +1,8 @@
 _repo: The-History-of-Saint-Augustine-Florida_53608
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53608-h/images/cover.jpg
 creator:
   author:
     agent_name: Dewhurst, William W. (William Whitwell)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47452'
     url: http://www.gutenberg.org/2009/agents/47452
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53608#The-History-of-Saint-Augustine-Florida
 gutenberg_issued: '2016-11-26'
 gutenberg_type: Text
 identifiers:
